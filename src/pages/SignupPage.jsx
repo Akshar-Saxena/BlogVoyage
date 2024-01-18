@@ -150,7 +150,7 @@ export default function SignupPage() {
                     type="password"
                     onChange={cpasswordHandler}
                     value={cpassword}
-                    placeholder="Confitm Password"
+                    placeholder="Confircm Password"
                 />
                 <br />
                 <input
